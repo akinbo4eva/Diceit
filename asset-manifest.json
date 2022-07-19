@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dice_king/static/css/main.aed68171.css",
+    "main.js": "/dice_king/static/js/main.6d1b2df4.js",
+    "index.html": "/dice_king/index.html",
+    "main.aed68171.css.map": "/dice_king/static/css/main.aed68171.css.map",
+    "main.6d1b2df4.js.map": "/dice_king/static/js/main.6d1b2df4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aed68171.css",
+    "static/js/main.6d1b2df4.js"
+  ]
+}
